@@ -1,7 +1,7 @@
-# Security-Systems-CSCI-530-
+## Security-Systems-CSCI-530-
 Literature Survey on modern Intrusion Detection Systems based on SDN and Honeypot - as a part of the coursework of CSCI 530 Security Systems
 
-Abstract:
+# Abstract
 
 In the cyberspace, the capabilities of an adversary, to find and exploit a system vulnerability to perform malicious actions, increase in proportion to the rising scale of computational
 and technological advancement. In correspondence, the defense mechanisms against such actions should also be revised and updated to either gain the upper hand or maintain a balance
